@@ -1,0 +1,11 @@
+Student Name                -> Rahul Singh 
+Student Age                 -> 18
+Student Marks In First Sem  -> 80%
+-----------------------------------
+Student Name                -> Rakesh Singh 
+Student Age                 -> 20
+Student Marks In First Sem  -> 70%
+-----------------------------------
+Student Name                -> Vipin Verma 
+Student Age                 -> 22
+Student Marks In First Sem  -> 57%
